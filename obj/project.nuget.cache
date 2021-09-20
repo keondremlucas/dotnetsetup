@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kvSjpnSyZJtrWmrcP7sHtdcxoADfmEBo46ZwmshQ2MRusVynqEbxYrdYttpWeaHQZbju6ZGTHCpXNFSzl92frA==",
+  "dgSpecHash": "9qFBhf65lzLXm2rE5GDZxjpMYMeSR0cTST+IeSq+/3IjzrkVIZigY/2oo/R1UIPF0/Z66QV9XnfZyUNwLnXkRg==",
   "success": true,
-  "projectFilePath": "C:\\Program Files\\Git\\dotnetsetup\\dotnetsetup.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Workspace\\dotnet\\dotnetsetup\\dotnetsetup.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

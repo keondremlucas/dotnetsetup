@@ -7,6 +7,7 @@ namespace dotnetsetup
         static void Main(string[] args)
         {
             Console.WriteLine("Keondre Lucas");
+            Console.WriteLine("Benjamin Chen");
         }
     }
 }

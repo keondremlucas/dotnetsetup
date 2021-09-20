@@ -1,0 +1,16 @@
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\bin\Debug\net5.0\dotnetsetup.exe
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\bin\Debug\net5.0\dotnetsetup.deps.json
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\bin\Debug\net5.0\dotnetsetup.runtimeconfig.json
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\bin\Debug\net5.0\dotnetsetup.runtimeconfig.dev.json
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\bin\Debug\net5.0\dotnetsetup.dll
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\bin\Debug\net5.0\ref\dotnetsetup.dll
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\bin\Debug\net5.0\dotnetsetup.pdb
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\dotnetsetup.csproj.AssemblyReference.cache
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\dotnetsetup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\dotnetsetup.AssemblyInfoInputs.cache
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\dotnetsetup.AssemblyInfo.cs
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\dotnetsetup.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\dotnetsetup.dll
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\ref\dotnetsetup.dll
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\dotnetsetup.pdb
+C:\Users\Administrator\Workspace\dotnet\dotnetsetup\obj\Debug\net5.0\dotnetsetup.genruntimeconfig.cache
